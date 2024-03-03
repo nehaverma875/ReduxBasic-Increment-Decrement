@@ -1,0 +1,29 @@
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.logn{
+  color: green;
+}
+
+.box3{
+  position: absolute;
+  left: 100px;
+}
+
+
+
+@media(max-width:1000px){
+  .main-box2{
+    display: flex;
+    
+    font-size: 1rem;
+    flex-wrap: wrap;
+  }
+
+}
